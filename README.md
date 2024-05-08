@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eauceane
 - 👀 I’m interested in environnement.
-- 🌱 I’m currently learning html, css, javascript, python and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
